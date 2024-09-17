@@ -1,0 +1,370 @@
+{
+  "home": {
+    "appLinks": [
+      {
+        "to": "https://play.google.com/store/apps/details?id=com.TikTik",
+        "src": "/Asset/google-play.png",
+        "alt": "playstore-img",
+        "width": 120
+      },
+      {
+        "href": "",
+        "src": "/Asset/apple-store.png",
+        "alt": "appstore-img",
+        "width": 120
+      }
+    ],
+    "heroSection": {
+      "heading": {
+        "text": "is India's First Ticket Reselling Platform",
+        "brandName": "Tik Tik"
+      },
+      "description": "Don't miss the fun. It's simple and quick."
+    },
+    "carousel": {
+      "slides": [
+        {
+          "src": "Asset/roll 1.png",
+          "alt": "event-banner-img",
+          "label": "First slide label",
+          "description": "Some representative placeholder content for the first slide."
+        },
+        {
+          "src": "Asset/roll 2.png",
+          "alt": "sports-banner-img",
+          "label": "Second slide label",
+          "description": "Some representative placeholder content for the second slide."
+        },
+        {
+          "src": "Asset/roll 3.png",
+          "alt": "movie-banner-img",
+          "label": "Third slide label",
+          "description": "Some representative placeholder content for the third slide."
+        }
+      ]
+    }
+  },
+  "feature": {
+    "heading": {
+      "title": "Features",
+      "description": "We make it simple and fast buying and selling Tickets at anytime and any where"
+    },
+    "features": [
+      {
+        "icon": "ri-file-upload-fill",
+        "iconColor": "#18C1F5",
+        "text": "Buy Tickets"
+      },
+      {
+        "icon": "ri-bank-fill",
+        "iconColor": "#18C1F5",
+        "text": "Bank account"
+      },
+      {
+        "icon": "ri-shopping-cart-fill",
+        "iconColor": "#18C1F5",
+        "text": "Buyer Ticket"
+      },
+      {
+        "icon": "ri-swap-3-fill",
+        "iconColor": "#18C1F5",
+        "text": "Seller to buyer"
+      },
+      {
+        "icon": "ri-swap-2-fill",
+        "iconColor": "#18C1F5",
+        "text": "Buyer to seller"
+      },
+      {
+        "icon": "ri-money-rupee-circle-fill",
+        "iconColor": "#18C1F5",
+        "text": "Transaction"
+      }
+    ],
+    "additionalText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "videoSection": {
+      "text": "Watch video presentation",
+      "videoId": "o7ewg-Zk3pA"
+    }
+  },
+  "about": {
+    "heading": {
+      "title": "About"
+    },
+    "sections1": {
+      "title": "Buyer",
+      "content": [
+        "Purchasing Tickets: Buyers must provide a valid WhatsApp number or email address to receive purchased tickets.",
+        "Accuracy of Information: Buyers must ensure that the contact information provided is accurate and up-to-date. Tik Tik will not be responsible for any failure to deliver tickets due to incorrect contact information."
+      ],
+      "image": {
+        "src": "src/Asset/b-about-image.png",
+        "alt": "buyer-about-img"
+      },
+      "animation": "fade-left"
+    },
+    "sections2": {
+      "title": "Uploader",
+      "content": [
+        "Purchasing Tickets: Buyers must provide a valid WhatsApp number or email address to receive purchased tickets.",
+        "Accuracy of Information: Buyers must ensure that the contact information provided is accurate and up-to-date. Tik Tik will not be responsible for any failure to deliver tickets due to incorrect contact information."
+      ],
+      "image": {
+        "src": "Asset/u-about-image.png",
+        "alt": "uploader-about-img"
+      },
+      "animation": "fade-right"
+    },
+    "callToAction": {
+      "heading": "Download Tik Tik today",
+      "heading2": "Download this app now",
+      "links": [
+        {
+          "to": "https://play.google.com/store/apps/details?id=com.TikTik",
+          "icon": "ri-google-play-fill",
+          "text": "Google Play"
+        },
+        {
+          "to": "",
+          "icon": "ri-apple-fill",
+          "text": "Apple Store"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "location": {
+      "icon": "ri-compass-3-fill",
+      "address": "80G/3, Kamban Nagar, Elambalur Road, Perambalur-621212"
+    },
+    "contact": {
+      "links": [
+        {
+          "href": "mailto:support@tiktik.in",
+          "icon": "ri-mail-fill",
+          "text": "support@tiktik.in",
+          "type": "email"
+        },
+        {
+          "href": "tel:+919597059693",
+          "icon": "ri-phone-fill",
+          "text": "+91 95970 59693",
+          "type": "phone"
+        }
+      ]
+    },
+    "socialMedia": {
+      "links": [
+        {
+          "href": "https://wa.me/918072988452",
+          "icon": "ri-whatsapp-fill",
+          "alt": "WhatsApp"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "icon": "ri-instagram-fill",
+          "alt": "Instagram"
+        },
+        {
+          "href": "https://www.youtube.com/@CloudGarageLtd",
+          "icon": "ri-youtube-fill",
+          "alt": "Instagram"
+        },
+        {
+          "href": "https://www.linkedin.com/company/cloudgaragellp/",
+          "icon": "ri-linkedin-box-fill",
+          "alt": "LinkedIn"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "Copyright &copy; 2024 Cloud Garage LLP All rights reserved",
+      "links": [
+        {
+          "href": "/terms-and-conditions",
+          "text": "Terms & Conditions"
+        },
+        {
+          "href": "/privacy-policy",
+          "text": "Privacy Policy"
+        }
+      ]
+    }
+  },
+  "privacyPolicy":{
+    "title": "Privacy Policy for Tik Tik",
+    "effectiveDate": "29/07/2024",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "Welcome to Tik Tik. We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines the types of information we collect from our users, how we use and protect that information, and your rights regarding your data. By using our mobile app, you agree to the collection and use of information in accordance with this policy."
+      },
+      {
+        "heading": "Information We Collect",
+        "content": "Tik Tik collects various types of information through user input. This includes personal information such as your name, email address, and WhatsApp number. We also collect location data to enhance the functionality of our services and provide you with a better user experience. This information is essential for us to manage your account and ensure that you receive the tickets and other related services efficiently."
+      },
+      {
+        "heading": "How We Collect Information",
+        "content": "We collect information directly from you when you create an account and provide your personal details. This includes your name, email address, WhatsApp number, and bank account number. Your personal information is gathered through explicit user input, ensuring that you have control over the information you share with us."
+      },
+      {
+        "heading": "Purpose of Collecting Data",
+        "content": "The primary purpose of collecting your personal information is to manage and process your account details effectively. This enables us to send tickets and payments directly to your provided email address, WhatsApp number, and bank account. Without this information, we cannot send you ticket and payment-related details. By collecting this information, we can offer you a seamless and efficient service, enhancing your overall experience with Tik Tik."
+      },
+      {
+        "heading": "Data Storage and Protection",
+        "content": "At Tik Tik, we prioritize the security of your personal information. All data collected is stored in an encrypted format to prevent unauthorized access. We implement industry-standard security measures to protect your data from breaches, ensuring that your personal information remains confidential and secure. Our commitment to data protection is unwavering, and we continually update our security protocols to safeguard your information."
+      },
+      {
+        "heading": "Sharing of Information",
+        "content": "Tik Tik does not share your personal information or location data with third parties under any circumstances. Your data is used solely for the purposes outlined in this Privacy Policy and is never sold, shared, or disclosed to external entities. We believe in maintaining your trust by ensuring that your information remains private and secure."
+      },
+      {
+        "heading": "User Rights",
+        "content": "You have the right to access and delete your personal data at any time. If you wish to exercise these rights, you can do so by contacting us at the provided contact information. We are committed to ensuring that you have full control over your data and will promptly respond to any requests to access or delete your information. Your rights to privacy and data protection are paramount to us."
+      },
+      {
+        "heading": "Contact Information",
+        "content": "If you have any questions or concerns about this Privacy Policy or your data, please do not hesitate to contact us. We are here to address any issues or queries you may have regarding your privacy and data protection. You can reach us at: Email: tiktikappcontact@gmail.com Contact: 9597059693"
+      },
+      {
+        "heading": "Changes to This Privacy Policy",
+        "content": "Tik Tik may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by posting the new Privacy Policy on this page. You are encouraged to review this Privacy Policy periodically to stay informed about how we are protecting your information. Changes to this Privacy Policy are effective when they are posted on this page, and your continued use of the app after any modifications signifies your acceptance of the updated policy."
+      }
+    ]
+  },
+  "termsAndConditions":{
+    "title": "Terms & Conditions",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "Welcome to Tik Tik. By accessing or using our application, you agree to comply with and be bound by the following terms and conditions. Please read these terms carefully before using the app."
+      },
+      {
+        "heading": "User Accounts",
+        "subSections": [
+          {
+            "subHeading": "Registration",
+            "content": "To use our services, you must register an account with a valid mobile number. OTP authentication will be used for verification."
+          },
+          {
+            "subHeading": "User Types",
+            "content": "There are two types of users on our platform: Uploader: A user who lists tickets for sale. Buyer: A user who purchases tickets."
+          }
+        ]
+      },
+      {
+        "heading": "Uploader Responsibilities",
+        "subSections": [
+          {
+            "subHeading": "Listing Tickets",
+            "content": "Uploaders are responsible for accurately listing the details of the tickets, including event name, date, and time."
+          },
+          {
+            "subHeading": "Bank Account Details",
+            "content": "Uploaders must provide valid bank account details to receive payments for sold tickets. Tik Tik will not be responsible for any errors in the provided bank account information."
+          }
+        ]
+      },
+      {
+        "heading": "Buyer Responsibilities",
+        "subSections": [
+          {
+            "subHeading": "Purchasing Tickets",
+            "content": "Buyers must provide a valid WhatsApp number or email address to receive purchased tickets."
+          },
+          {
+            "subHeading": "Accuracy of Information",
+            "content": "Buyers must ensure that the contact information provided is accurate and up-to-date. Tik Tik will not be responsible for any failure to deliver tickets due to incorrect contact information."
+          }
+        ]
+      },
+      {
+        "heading": "Payments and Fees",
+        "subSections": [
+          {
+            "subHeading": "Transaction Fees",
+            "content": "Tik Tik charges a platform fee of 10% on each transaction, and GST. The fee structure will be communicated to users during the transaction process."
+          },
+          {
+            "subHeading": "Payment Processing",
+            "content": "Payments for tickets will be processed through our secure payment gateway. Uploaders will receive the amount for sold tickets, minus the 10% platform fee (inclusive of GST), to their provided bank account."
+          }
+        ]
+      },
+      {
+        "heading": "Ticket Delivery",
+        "subSections": [
+          {
+            "subHeading": "Electronic Delivery",
+            "content": "Tickets will be delivered electronically to the buyer's provided WhatsApp number or email address upon successful payment."
+          },
+          {
+            "subHeading": "Delivery Issues",
+            "content": "In case of any issues with ticket delivery, users should contact our support team for assistance. Email: tiktikappcontact@gmail.com"
+          }
+        ]
+      },
+      {
+        "heading": "User Conduct",
+        "subSections": [
+          {
+            "subHeading": "Prohibited Activities",
+            "content": "Users are prohibited from engaging in any activity that violates these terms, including but not limited to fraudulent transactions, misrepresentation of ticket details, or any illegal activity."
+          },
+          {
+            "subHeading": "Account Suspension",
+            "content": "Tik Tik reserves the right to suspend or terminate any user account that violates these terms or engages in prohibited activities."
+          }
+        ]
+      },
+      {
+        "heading": "Privacy Policy",
+        "subSections": [
+          {
+            "subHeading": "Data Collection",
+            "content": "We collect and use your personal information in accordance with our Privacy Policy. By using the app, you consent to our data practices."
+          },
+          {
+            "subHeading": "Third-Party Services",
+            "content": "Our app may use third-party services for payment processing, ticket delivery, and other functionalities. By using the app, you agree to the terms and conditions of these third-party services."
+          }
+        ]
+      },
+      {
+        "heading": "Limitation of Liability",
+        "subSections": [
+          {
+            "subHeading": "Service Availability",
+            "content": "Tik Tik does not guarantee the availability of our services at all times. We may experience downtime or technical issues that may affect app functionality."
+          },
+          {
+            "subHeading": "No Warranty",
+            "content": "Tik Tik provides the app on an 'as-is' basis without any warranties, express or implied. We are not responsible for any losses or damages arising from the use of our app."
+          }
+        ]
+      },
+      {
+        "heading": "Amendments",
+        "content": "Tik Tik reserves the right to amend these terms and conditions at any time. Users will be notified of any significant changes, and continued use of the app constitutes acceptance of the updated terms."
+      },
+      {
+        "heading": "Contact Us",
+        "content": "If you have any questions or concerns about these terms and conditions, please contact us at.",
+        "contactDetails": [
+          {
+            "label": "Email",
+            "value": "support@tiktik.in",
+            "type": "email"
+          },
+          {
+            "label": "Contact",
+            "value": "+91 95970 59693",
+            "type": "phone"
+          }
+        ]
+      }
+    ]
+  }
+
+}
