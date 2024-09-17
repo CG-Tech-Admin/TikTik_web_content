@@ -17,7 +17,7 @@
     "heroSection": {
       "heading": {
         "text": "is India's First Ticket Reselling Platform",
-        "brandName": "Tik Tik Tik"
+        "brandName": "Tik Tik"
       },
       "description": "Don't miss the fun. It's simple and quick."
     },
@@ -26,7 +26,7 @@
         {
           "src": "Asset/roll 1.png",
           "alt": "event-banner-img",
-          "label": "First slide label first label",
+          "label": "First slide label",
           "description": "Some representative placeholder content for the first slide."
         },
         {
