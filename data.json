@@ -195,8 +195,8 @@
     "title": "Privacy Policy for Tik Tik",
     "effectiveDate": "29/07/2024",
     "sections": [
-    
-      {
+
+    {
         "content": "Tik  Tik   respects  your  privacy  and  recognizes  the  need  to  protect  your  personal information (any information by which you can be identified, such as name, address, financial information, and telephone number) you share with us. We would like to assure  you  that  we  follow  appropriate  standards  when  it  comes  to  protecting  your privacy on our web sites and applications."
     },
     {
@@ -209,7 +209,7 @@
         "content": "A  transaction  on  Tik  Tik   is  to  be  conducted  by  persons  above  the  age  of  18  years only. If you are under 18 years of age, you are not allowed to make a transaction in Tik Tik . It is the duty of the legal guardians of all persons below 18 years of age to ensure that their wards do not make a transaction without their supervision on  Tik Tik . It shall be automatically deemed that by allowing any person below the age of 18  years  to  transact  on  Tik  Tik ,  their  legal  guardians  have  expressly  consented  to their use  and we disclaim any liability arising from your failure to do so. "
     },
     {
-        "contact": "We may collect your personal data when you:",
+        "content": "We may collect your personal data when you:",
         "list": [
             "a) create an account with us or", 
             "b) otherwise provide us with your personal data or", 
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "contact": "This computer data is collected for analysis and evaluation in order to help us improve Tik Tik, the services we provide and to enhance your experience by providing you with better services and benefits that you shall be entitled to."
+        "content": "This computer data is collected for analysis and evaluation in order to help us improve Tik Tik, the services we provide and to enhance your experience by providing you with better services and benefits that you shall be entitled to."
     },
     {
         "content": "To the extent that such computer data is maintained in a manner that identifies your name or contact information, it will be treated as personal data; otherwise, such computer data will be treated as non-personal data."
@@ -265,16 +265,16 @@
         "content": "In order to provide our products and services to you or to otherwise fulfil contractual arrangements that we have with you, we may need to appoint other organisations to carry out some of the data processing activities on our behalf. These may include, for example, payment processing organisations, delivery organisations, fraud prevention and screening and credit risk management companies, and mailing houses."
     },
     {
-        "contact": "We may share your data with advertising networks and/or social media platforms for the purposes of selecting and serving relevant adverts to you via those networks/platforms, and to search engine and analytics providers."
+        "content": "We may share your data with advertising networks and/or social media platforms for the purposes of selecting and serving relevant adverts to you via those networks/platforms, and to search engine and analytics providers."
     },
     {
-        "contact": "We as an intermediary are responsible to facilitate a transaction between buyer and the seller so as to enable you to buy a resell-ticket for an entertainment event, movie, sport etc. For us to be able to facilitate this transaction and otherwise fulfil our contractual arrangements with the buyer and seller of the tickets, we may have to share your personal data with them so that they are able to verify the accuracy of the information you have shared with us while issuing your valid entry/ticket, to provide you with services and benefits that you may be entitled to and to conduct their own analysis."
+        "content": "We as an intermediary are responsible to facilitate a transaction between buyer and the seller so as to enable you to buy a resell-ticket for an entertainment event, movie, sport etc. For us to be able to facilitate this transaction and otherwise fulfil our contractual arrangements with the buyer and seller of the tickets, we may have to share your personal data with them so that they are able to verify the accuracy of the information you have shared with us while issuing your valid entry/ticket, to provide you with services and benefits that you may be entitled to and to conduct their own analysis."
     },
     {
         "content": "Tik Tik and its services may contain links to third-party websites, including identity verification and social networking websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services to which we link. We do not endorse or make any representations about third-party websites or services. The personal data you choose to provide to or that is collected by these third parties is not covered by our Privacy Statement. We strongly encourage you to read such third parties’ privacy statements."
     },
     {
-        "contact": "We may share:"
+        "content": "We may share:"
     },
     {
         "content": "(a) your personal data with any person or entity where we believe in good faith that such disclosure is necessary to:",
@@ -286,54 +286,54 @@
         ]
     },
     {
-        "contact": "(b) personal data about our visitors, customers, or former customers with the following types of companies that perform services on our behalf or with whom we have joint marketing agreements:",
+        "content": "(b) personal data about our visitors, customers, or former customers with the following types of companies that perform services on our behalf or with whom we have joint marketing agreements:",
         "list": [
             "(i) Non-financial companies such as envelope stuffers, fulfilment service providers, payment processors, data processors, customer/support services, etc., and/or",
             "(ii) Financial service providers such as companies engaged in banking/payments/facilitating financial transactions."
         ]
     },
     {
-        "contact": "In sharing your personal data with such parties, we will reasonably endeavour to ensure that the third parties and our affiliates keep your personal data secure from unauthorised access, collection, use, disclosure, or similar risks and retain your personal data only for as long as they need your personal data to achieve the abovementioned purposes."
+        "content": "In sharing your personal data with such parties, we will reasonably endeavour to ensure that the third parties and our affiliates keep your personal data secure from unauthorised access, collection, use, disclosure, or similar risks and retain your personal data only for as long as they need your personal data to achieve the abovementioned purposes."
     },
     {
-        "contact": "You acknowledge that, notwithstanding this Privacy Policy, we have at all times the right to disclose your personal data to any legal, regulatory, governmental, tax, law enforcement or other authorities pursuant to applicable law and our legal obligations. This may arise from any investigation, order, or request by such parties. To the furthest extent permissible by law, you agree not to take any action and/or waive your rights to take any action against us for the disclosure of your personal data in these circumstances."
+        "content": "You acknowledge that, notwithstanding this Privacy Policy, we have at all times the right to disclose your personal data to any legal, regulatory, governmental, tax, law enforcement or other authorities pursuant to applicable law and our legal obligations. This may arise from any investigation, order, or request by such parties. To the furthest extent permissible by law, you agree not to take any action and/or waive your rights to take any action against us for the disclosure of your personal data in these circumstances."
     },
    {
     "content": "If any disclosure of your personal data involves the transfer of your personal data by Tik Tik out of India, we will take steps to reasonably ensure that the receiving jurisdiction has in place a standard of protection accorded to personal data that is comparable to the protection under India’s data protection laws."
    },
    {
-    "contact": "We have implemented reasonable security arrangements including physical, administrative, technical, and electronic security measures to protect against the loss, misuse, and alteration of your personal data. We are PCI DSS certified which means that the data you submit to us is secure and protected against loss or theft in accordance with the globally accepted data security standards. Despite our best efforts, however, no security measures are perfect or impenetrable. In the event where you believe your privacy has been breached, please contact us immediately."
+    "content": "We have implemented reasonable security arrangements including physical, administrative, technical, and electronic security measures to protect against the loss, misuse, and alteration of your personal data. We are PCI DSS certified which means that the data you submit to us is secure and protected against loss or theft in accordance with the globally accepted data security standards. Despite our best efforts, however, no security measures are perfect or impenetrable. In the event where you believe your privacy has been breached, please contact us immediately."
    },
    {
-    "contact": "It is your responsibility to protect any passwords you require to access your account, on Tik Tik. Please use unique numbers, letters and special characters, and do not share your password with anyone. If you do share your password with others, you will be responsible for all actions taken in the name of your account and the consequences. If you lose control of your password, you may lose substantial control over your personal data and other information submitted to us. You could also be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason or if you have grounds to believe that your password has been compromised, you should immediately contact us and change your password." 
+    "content": "It is your responsibility to protect any passwords you require to access your account, on Tik Tik. Please use unique numbers, letters and special characters, and do not share your password with anyone. If you do share your password with others, you will be responsible for all actions taken in the name of your account and the consequences. If you lose control of your password, you may lose substantial control over your personal data and other information submitted to us. You could also be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason or if you have grounds to believe that your password has been compromised, you should immediately contact us and change your password." 
    },
    {
     "content": "You undertake to treat your password and other confidential information in relation to the use of Tik Tik and its services confidentially, and we disclaim any liability arising from your failure to do so." 
    },
    {
-    "contact": "Some of our web pages use \u201Ccookies\u201d so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. Please note, if you refuse cookies this may mean that you can’t use some of the additional features of our website and may not be able to access certain parts of the website."
+    "content": "Some of our web pages use \u201Ccookies\u201d so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. Please note, if you refuse cookies this may mean that you can’t use some of the additional features of our website and may not be able to access certain parts of the website."
    },
    {
-    "contact": "You may update any of your personal data we possess by contacting us at support@tiktik.in and we will endeavour to serve your request for updation. Bigtree reserves the right to accept or reject requests made for updating of personal data and in case of any such refusal we will also endeavour to inform you the reason for such refusal."
+    "content": "You may update any of your personal data we possess by contacting us at support@tiktik.in and we will endeavour to serve your request for updation. Bigtree reserves the right to accept or reject requests made for updating of personal data and in case of any such refusal we will also endeavour to inform you the reason for such refusal."
    },
    {
-    "contact": "You may communicate your objection to our continual use and/or disclosure of your personal data for any of the purposes and in the manner as stated above at any time by contacting us at support@tiktik.in"
+    "content": "You may communicate your objection to our continual use and/or disclosure of your personal data for any of the purposes and in the manner as stated above at any time by contacting us at support@tiktik.in"
    },
    {
-    "contact": "If you do not wish for us to continue using your information, and/or disclose your personal data for any of the purposes and in the manner as stated above at any time, you may opt out of providing the same by contacting us at support@tiktik.in Please note that if you choose not to provide the Information we request, you can still visit Tik Tik, but you may not be able to access certain options, offers and services. Tik Tik reserves all legal rights and remedies in such an event."
+    "content": "If you do not wish for us to continue using your information, and/or disclose your personal data for any of the purposes and in the manner as stated above at any time, you may opt out of providing the same by contacting us at support@tiktik.in Please note that if you choose not to provide the Information we request, you can still visit Tik Tik, but you may not be able to access certain options, offers and services. Tik Tik reserves all legal rights and remedies in such an event."
    },
    {
-    "contact": "We retain personal data only for as long as necessary to provide the services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:",
+    "content": "We retain personal data only for as long as necessary to provide the services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:",
     "list": [
         "a. mandated by law, contract or similar obligations applicable to our business operations;",
         "b. for preserving, resolving, defending or enforcing our legal/contractual rights; or needed to maintain adequate and accurate business and financial records."
     ]
    },
    {
-    "contact": "If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Tik Tik will attempt to respond to all reasonable concerns or inquiries within 30 business days of receipt."
+    "content": "If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Tik Tik will attempt to respond to all reasonable concerns or inquiries within 30 business days of receipt."
    },
    {
-    "contact" : "If you have an enquiry or a complaint about the way we handle your personal information, or to seek to exercise your privacy rights in relation to the personal information we hold about you, you may contact our customer grievance officer as follows:",
+    "content" : "If you have an enquiry or a complaint about the way we handle your personal information, or to seek to exercise your privacy rights in relation to the personal information we hold about you, you may contact our customer grievance officer as follows:",
     "list": [
         "By Email: support@tiktik.in",
         "• By Mail: Customer Grievance Officer",
